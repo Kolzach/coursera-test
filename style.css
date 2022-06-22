@@ -1,0 +1,31 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(rgb(0, 0, 0), rgba(255, 0, 0, 0.959));
+    background-image: url(https://media.istockphoto.com/photos/fire-isolated-over-black-background-picture-id113494458?k=20&m=113494458&s=612x612&w=0&h=xwIXuOUwLSqGiOHMS-byry1NeuH99Z7GBrkfl70Sxvg=);
+    margin: 0;
+    background-size: cover;
+}
+
+h1 {
+    color: rgb(34, 177, 76);
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    font-size: 300px;
+}
+
+#LETS {
+    font-size: 100px;
+}
+
+p {
+    font-size: large`;
+}
